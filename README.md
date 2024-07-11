@@ -1,11 +1,9 @@
-
-
-
+![Web Developer form Bangladesh](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/428033272_954156369405389_2989636603110124865_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHca3dpZ6PV4WZESN9ahoXiKKJZQCHSkgsoollAIdKSC3VOftESBg3g-oq4s3wgUT6EZ1rda0LkOFsyKHn-tLp8&_nc_ohc=xnmxaL8ZELgQ7kNvgExt15s&_nc_ht=scontent.fdac135-1.fna&oh=00_AYDJt9OmeNRHal7j3LYZL6Afw5jLoZNom7OzrW4ncGZI6A&oe=66957006)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nhmizan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nhmizan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nhmizan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nhmizan9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nh-mizan.github.io/my-website/) 
 
 ### Hi there 👋, Hii.. I am Nahid Hasan Mizan
 #### Web Developer form Bangladesh
-![Web Developer form Bangladesh](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/428033272_954156369405389_2989636603110124865_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHca3dpZ6PV4WZESN9ahoXiKKJZQCHSkgsoollAIdKSC3VOftESBg3g-oq4s3wgUT6EZ1rda0LkOFsyKHn-tLp8&_nc_ohc=xnmxaL8ZELgQ7kNvgExt15s&_nc_ht=scontent.fdac135-1.fna&oh=00_AYDJt9OmeNRHal7j3LYZL6Afw5jLoZNom7OzrW4ncGZI6A&oe=66957006)
+
 
 problem-solving, and continuous learning . With 1 year of experience, I specialize in HTML5, CSS3, bootstrap, JavaScript, jQuery, jQuery UI and converting designs from PSD, XI, XD, Figma and AI to stunning HTML. I also create responsive web designs. If you need help with web design projects, feel free to reach out. I'll work dedicatedly and make adjustments until you're completely satisfied. I take pride in delivering quality and ensuring client satisfaction . Your project is in good hands..Thank you..
 
