@@ -1,5 +1,6 @@
 ![Frontend web Developer](https://i.ibb.co.com/B23p0qtQ/Yellow-And-Blue-Modern-Business-Linked-In-Article-Cover-Image-3.png)
-### Hi there 👋, I'm Nahid Hasan Mizan
+### Hello   👋,
+### I'm Nahid Hasan Mizan
 #### Frontend web Developer
 
 I am a passionate web developer with over two years of experience in building and delivering high-quality web applications. My expertise lies in HTML, CSS, JavaScript, React, and Tailwind CSS, Bootstrap, with a strong focus on creating user-friendly and responsive designs. I excel in converting designs from PSD, XD, XI, and Figma into pixel-perfect, fully functional HTML.
@@ -105,6 +106,42 @@ Future Enhancements
 
 How to Contribute
 We welcome contributions! Feel free to clone the repository, improve features, fix bugs, and submit a pull request.
+
+
+✅
+# Project Name : Peddy-Pet Adoption  
+
+## Description :
+ Peddy-Pet   Adoption is a unique platform that connects pet lovers with adorable pets in need of homes, featuring various adoption options for dogs, rabbits, and more. Users can browse a diverse range of pets, with each listing providing details about breed, age, and temperament. The platform includes a convenient sorting feature that allows users to view pets in descending order based on their adoption fee. By promoting responsible pet ownership and offering a seamless adoption process, Peddy-Pet Adoption aims to create a community of caring pet owners while ensuring that every pet finds a loving forever home.
+
+### 5 key Features :
+i. DOM Manipulation: APIs like the Document Object Model (DOM) API allow developers to access and modify the structure, content, and style of web pages.
+
+
+ii. Fetch API: Used to make HTTP requests to servers for loading data, replacing the older XMLHttpRequest method.
+
+
+iii. Event Handling: JavaScript APIs like the Event API enable developers to respond to user actions such as clicks, key presses, and mouse movements.
+
+
+iv. Geolocation API: Allows websites to access the geographical location of the user's device, commonly used for mapping and location-based services.
+
+
+v. LocalStorage and SessionStorage: These APIs enable storage of data locally within the user's browser for maintaining state without server communication.
+
+### ES6  Features :
+i. Arrow Function.
+
+ii. Let and Const.
+
+iii. Template Literal.
+
+iv. Default Parameters.
+
+v. Desructuring Assignment.
+
+
+### Project Live Link : https://challenge-assignment-06.netlify.app/
 
 
 
