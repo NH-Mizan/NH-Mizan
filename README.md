@@ -35,8 +35,7 @@ Skills: HTML / CSS /Tailwind CSS / REACT / JS / Node JS / Express  JS/ Mongo DB 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/NH-Mizan)  
 
-
-1.
+✅
 # Crowd Funding 
 
 NextGen Ventures supports bold entrepreneurs with innovative ideas. We’re on a journey to discover and nurture the next big thing in the business worldn.  
@@ -71,16 +70,16 @@ The **crowd-funding-website** simplifies the process of donating winter clothing
 
  etc...
 
-
-
-FindItZone
+✅
+## FindItZone
 Purpose
 FindItZone is a comprehensive platform designed to help individuals report, track, and reclaim lost or found items within their community. By connecting people, it simplifies the process of reuniting lost items with their rightful owners.
 
-Live Demo
+### Live Demo
 🔗 FindItZone Live
+https://lost-and-found-8b82c.web.app/
 
-Key Features
+### Key Features
 ✅ Lost & Found Item Posting – Users can easily post lost or found items, providing details such as title, description, date, and location.
 
 ✅ Search & Filter – Quickly find items by filtering results based on title or location.
@@ -93,7 +92,7 @@ Key Features
 
 ✅ Comprehensive Listings – Browse all lost and found items, sorted by the most recent updates.
 
-Technologies Used
+#### Technologies Used
 Frontend
 React – Frontend framework for building interactive user interfaces.
 React Router DOM – Enables navigation and routing within the application.
@@ -109,5 +108,4 @@ Future Enhancements
 
 How to Contribute
 We welcome contributions! Feel free to clone the repository, improve features, fix bugs, and submit a pull request.
-
 
