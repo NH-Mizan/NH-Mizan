@@ -1,7 +1,6 @@
-(https://i.ibb.co.com/B23p0qtQ/Yellow-And-Blue-Modern-Business-Linked-In-Article-Cover-Image-3.png)
+![Frontend web Developer](https://i.ibb.co.com/B23p0qtQ/Yellow-And-Blue-Modern-Business-Linked-In-Article-Cover-Image-3.png)
 ### Hi there 👋, I'm Nahid Hasan Mizan
 #### Frontend web Developer
-![Frontend web Developer]
 
 I am a passionate web developer with over two years of experience in building and delivering high-quality web applications. My expertise lies in HTML, CSS, JavaScript, React, and Tailwind CSS, Bootstrap, with a strong focus on creating user-friendly and responsive designs. I excel in converting designs from PSD, XD, XI, and Figma into pixel-perfect, fully functional HTML.
 
