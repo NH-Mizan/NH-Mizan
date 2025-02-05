@@ -40,7 +40,7 @@ Skills: HTML / CSS /Tailwind CSS / REACT / JS / Node JS / Express  JS/ Mongo DB 
 - 🌱 I’m currently learning Next Js. 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web development 
-
+<hr/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NH-Mizan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/nh-mizan-63326b2b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mhasanmizand.nahid..3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/uturncoder)  
 
@@ -58,37 +58,18 @@ Skills: HTML / CSS /Tailwind CSS / REACT / JS / Node JS / Express  JS/ Mongo DB 
 ✅
 # Crowd Funding 
 
-NextGen Ventures supports bold entrepreneurs with innovative ideas. We’re on a journey to discover and nurture the next big thing in the business worldn.  
-
-## Purpose  
-The **crowd-funding-website** simplifies the process of donating winter clothing. By bridging the gap between donors and recipients, the website ensures that essential winter gear reaches those who need it most.  
+NextGen Ventures supports bold entrepreneurs with innovative ideas. We’re on a journey to discover and nurture the next big thing in the business worldn.    
 
 ## Live URL  
 [Visit the Live App](#)  
 *(https://crowd-funding-ass-10.web.app/)*  
 
 ## Features  
-- **User-Friendly Interface**: Easy navigation for donors and recipients.  
-- **Donor Registration**: Allows users to register and list clothing donations.  
-- **Recipient Search**: Enables recipients to search for available items based on size, type, or location.  
-- **Secure Authentication**: Firebase authentication ensures user data is safe.  
-- **Real-Time Updates**: View donation updates instantly.  
-- **Mobile Responsive Design**: Optimized for all devices.  
-
+- **User-Friendly Interface**: Easy navigation for donors and recipients. 
 ## Technologies Used  
 - **Frontend**: React, Tailwind CSS, Daisy Ui
 - **Backend/Database**: Firebase, Node.js , Express.js, MongoDB  
 
-## Instructions  
-
-### React pakage name:
- 1. React Tostify
- 2. Animation Css
- 3. React Icon 
- 4. Swetty2
- 5. react-simple-typewriter
-
- etc...
 
 ✅
 ## FindItZone
@@ -99,71 +80,14 @@ FindItZone is a comprehensive platform designed to help individuals report, trac
 🔗 FindItZone Live
 https://lost-and-found-8b82c.web.app/
 
-### Key Features
-✅ Lost & Found Item Posting – Users can easily post lost or found items, providing details such as title, description, date, and location.
-
-✅ Search & Filter – Quickly find items by filtering results based on title or location.
-
-✅ Item Status Management – Mark items as recovered to prevent duplicate recoveries.
-
-✅ Detailed Item View – Each item has a dedicated page with complete information.
-
-✅ Responsive Design – Fully optimized for various devices with a user-friendly interface.
-
-✅ Comprehensive Listings – Browse all lost and found items, sorted by the most recent updates.
-
-#### Technologies Used
-Frontend
-React – Frontend framework for building interactive user interfaces.
-React Router DOM – Enables navigation and routing within the application.
-SweetAlert2 – Provides elegant alert modals for confirmations and success messages.
-Backend
-Node.js & Express.js – Handles server-side operations and API requests.
-MongoDB – Stores lost and recovered item data in a structured database.
-Axios – Facilitates seamless API communication between frontend and backend.
-Dotenv – Manages environment variables securely.
-Future Enhancements
-🚀 Email Notifications – Users will receive updates when a matching lost/found item is posted.
-🚀 Real-Time Updates – Implementing real-time item tracking to improve efficiency.
-
-How to Contribute
-We welcome contributions! Feel free to clone the repository, improve features, fix bugs, and submit a pull request.
-
-
 ✅
-# Project Name : Peddy-Pet Adoption  
+### Peddy-Pet Adoption  
 
 ## Description :
  Peddy-Pet   Adoption is a unique platform that connects pet lovers with adorable pets in need of homes, featuring various adoption options for dogs, rabbits, and more. Users can browse a diverse range of pets, with each listing providing details about breed, age, and temperament. The platform includes a convenient sorting feature that allows users to view pets in descending order based on their adoption fee. By promoting responsible pet ownership and offering a seamless adoption process, Peddy-Pet Adoption aims to create a community of caring pet owners while ensuring that every pet finds a loving forever home.
 
-### 5 key Features :
-i. DOM Manipulation: APIs like the Document Object Model (DOM) API allow developers to access and modify the structure, content, and style of web pages.
 
-
-ii. Fetch API: Used to make HTTP requests to servers for loading data, replacing the older XMLHttpRequest method.
-
-
-iii. Event Handling: JavaScript APIs like the Event API enable developers to respond to user actions such as clicks, key presses, and mouse movements.
-
-
-iv. Geolocation API: Allows websites to access the geographical location of the user's device, commonly used for mapping and location-based services.
-
-
-v. LocalStorage and SessionStorage: These APIs enable storage of data locally within the user's browser for maintaining state without server communication.
-
-### ES6  Features :
-i. Arrow Function.
-
-ii. Let and Const.
-
-iii. Template Literal.
-
-iv. Default Parameters.
-
-v. Desructuring Assignment.
-
-
-### Project Live Link : https://challenge-assignment-06.netlify.app/
+###  Live Link : https://challenge-assignment-06.netlify.app/
 
 
 
