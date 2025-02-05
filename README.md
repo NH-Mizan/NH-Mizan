@@ -69,7 +69,9 @@ NextGen Ventures supports bold entrepreneurs with innovative ideas. We’re on a
  
 #### Technologies Used  
 - **Frontend**: React, Tailwind CSS, Daisy Ui
-- **Backend/Database**: Firebase, Node.js , Express.js, MongoDB  
+- **Backend/Database**: Firebase, Node.js , Express.js, MongoDB
+
+  <hr/>
 
 
 ✅
@@ -80,6 +82,7 @@ FindItZone is a comprehensive platform designed to help individuals report, trac
 ##### Live Demo
 🔗 FindItZone Live
 https://lost-and-found-8b82c.web.app/
+<hr/>
 
 ✅
 ### Peddy-Pet Adoption  
@@ -91,5 +94,5 @@ https://lost-and-found-8b82c.web.app/
 ####  Live Link : https://challenge-assignment-06.netlify.app/
 
 
-
+<hr/>
 
