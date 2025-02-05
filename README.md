@@ -48,51 +48,9 @@ HTML / CSS /Tailwind CSS / REACT / JS / Node JS / Express  JS/ Mongo DB / Next J
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nhmizan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nhmizan&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/nhmizan/contributions?format=svg&private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nhmizan) 
-
-✅
-## My awesome projects 
-### Crowd Funding 
-
-NextGen Ventures supports bold entrepreneurs with innovative ideas. We’re on a journey to discover and nurture the next big thing in the business worldn.    
-
-#### Live URL  
-[Visit the Live App](#)  
-*(https://crowd-funding-ass-10.web.app/)*  
-
- 
-#### Technologies Used  
-- **Frontend**: React, Tailwind CSS, Daisy Ui
-- **Backend/Database**: Firebase, Node.js , Express.js, MongoDB
-
-  <hr/>
-
-
-✅
-### FindItZone
-Purpose
-FindItZone is a comprehensive platform designed to help individuals report, track, and reclaim lost or found items within their community. By connecting people, it simplifies the process of reuniting lost items with their rightful owners.
-
-##### Live Demo
-🔗 FindItZone Live
-https://lost-and-found-8b82c.web.app/
-<hr/>
-
-✅
-### Peddy-Pet Adoption  
-
-#### Description :
- Peddy-Pet   Adoption is a unique platform that connects pet lovers with adorable pets in need of homes, featuring various adoption options for dogs, rabbits, and more. Users can browse a diverse range of pets, with each listing providing details about breed, age, and temperament. The platform includes a convenient sorting feature that allows users to view pets in descending order based on their adoption fee. By promoting responsible pet ownership and offering a seamless adoption process, Peddy-Pet Adoption aims to create a community of caring pet owners while ensuring that every pet finds a loving forever home.
-
-
-####  Live Link : https://challenge-assignment-06.netlify.app/
-
-
-<hr/>
-
