@@ -12,7 +12,8 @@ My goal is to continue growing as a developer, stay updated with industry trends
 Feel free to connect if you're looking for someone with a proactive mindset and a passion for continuous improvement...
 Thank you
 
-Skills: HTML / CSS /Tailwind CSS / REACT / JS / Node JS / Express  JS/ Mongo DB / Next JS
+### Skills:
+HTML / CSS /Tailwind CSS / REACT / JS / Node JS / Express  JS/ Mongo DB / Next JS
 
 ###
 <hr/>
@@ -60,34 +61,33 @@ Skills: HTML / CSS /Tailwind CSS / REACT / JS / Node JS / Express  JS/ Mongo DB 
 
 NextGen Ventures supports bold entrepreneurs with innovative ideas. We’re on a journey to discover and nurture the next big thing in the business worldn.    
 
-## Live URL  
+#### Live URL  
 [Visit the Live App](#)  
 *(https://crowd-funding-ass-10.web.app/)*  
 
-## Features  
-- **User-Friendly Interface**: Easy navigation for donors and recipients. 
-## Technologies Used  
+ 
+#### Technologies Used  
 - **Frontend**: React, Tailwind CSS, Daisy Ui
 - **Backend/Database**: Firebase, Node.js , Express.js, MongoDB  
 
 
 ✅
-## FindItZone
+#### FindItZone
 Purpose
 FindItZone is a comprehensive platform designed to help individuals report, track, and reclaim lost or found items within their community. By connecting people, it simplifies the process of reuniting lost items with their rightful owners.
 
-### Live Demo
+##### Live Demo
 🔗 FindItZone Live
 https://lost-and-found-8b82c.web.app/
 
 ✅
-### Peddy-Pet Adoption  
+# Peddy-Pet Adoption  
 
-## Description :
+#### Description :
  Peddy-Pet   Adoption is a unique platform that connects pet lovers with adorable pets in need of homes, featuring various adoption options for dogs, rabbits, and more. Users can browse a diverse range of pets, with each listing providing details about breed, age, and temperament. The platform includes a convenient sorting feature that allows users to view pets in descending order based on their adoption fee. By promoting responsible pet ownership and offering a seamless adoption process, Peddy-Pet Adoption aims to create a community of caring pet owners while ensuring that every pet finds a loving forever home.
 
 
-###  Live Link : https://challenge-assignment-06.netlify.app/
+####  Live Link : https://challenge-assignment-06.netlify.app/
 
 
 
