@@ -1,5 +1,5 @@
 ![Frontend web Developer](https://i.ibb.co.com/B23p0qtQ/Yellow-And-Blue-Modern-Business-Linked-In-Article-Cover-Image-3.png)
-### Hello   👋,
+### Hello   👋
 ### I'm Nahid Hasan Mizan
 #### Frontend web Developer
 
@@ -57,7 +57,8 @@ HTML / CSS /Tailwind CSS / REACT / JS / Node JS / Express  JS/ Mongo DB / Next J
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nhmizan) 
 
 ✅
-# Crowd Funding 
+## My awesome projects 
+### Crowd Funding 
 
 NextGen Ventures supports bold entrepreneurs with innovative ideas. We’re on a journey to discover and nurture the next big thing in the business worldn.    
 
@@ -72,7 +73,7 @@ NextGen Ventures supports bold entrepreneurs with innovative ideas. We’re on a
 
 
 ✅
-#### FindItZone
+### FindItZone
 Purpose
 FindItZone is a comprehensive platform designed to help individuals report, track, and reclaim lost or found items within their community. By connecting people, it simplifies the process of reuniting lost items with their rightful owners.
 
@@ -81,7 +82,7 @@ FindItZone is a comprehensive platform designed to help individuals report, trac
 https://lost-and-found-8b82c.web.app/
 
 ✅
-# Peddy-Pet Adoption  
+### Peddy-Pet Adoption  
 
 #### Description :
  Peddy-Pet   Adoption is a unique platform that connects pet lovers with adorable pets in need of homes, featuring various adoption options for dogs, rabbits, and more. Users can browse a diverse range of pets, with each listing providing details about breed, age, and temperament. The platform includes a convenient sorting feature that allows users to view pets in descending order based on their adoption fee. By promoting responsible pet ownership and offering a seamless adoption process, Peddy-Pet Adoption aims to create a community of caring pet owners while ensuring that every pet finds a loving forever home.
