@@ -1,4 +1,4 @@
-![Frontend web Developer](https://i.ibb.co.com/B23p0qtQ/Yellow-And-Blue-Modern-Business-Linked-In-Article-Cover-Image-3.png)
+![Frontend web Developer](https://i.ibb.co/Qvxc3ZB9/Software-Engineering-1.png)
 ### Hello   👋
 ### I'm Nahid Hasan Mizan
 #### Frontend web Developer
