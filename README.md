@@ -3,7 +3,7 @@
 ### I'm Nahid Hasan Mizan
 #### Frontend web Developer
 
-I am a passionate web developer with over two years of experience in building and delivering high-quality web applications. My expertise lies in HTML, CSS, JavaScript, React, and Tailwind CSS, Bootstrap, with a strong focus on creating user-friendly and responsive designs. I excel in converting designs from PSD, XD, XI, and Figma into pixel-perfect, fully functional HTML.
+I am a passionate web developer with over two years of experience in building and delivering high-quality web applications. My expertise lies in HTML, CSS, JavaScript, React,Next js and Tailwind CSS, Bootstrap, with a strong focus on creating user-friendly and responsive designs. I excel in converting designs from PSD, XD, XI, and Figma into pixel-perfect, fully functional HTML.
 
 Throughout my career, I have successfully completed numerous projects that showcase my ability to solve complex problems, deliver clean code, and contribute to the overall success of development teams. I am always eager to learn new technologies, and currently, I am focused on mastering the MERN (MongoDB, Express.js, React, Node.js) stack to expand my full-stack development skills.
 
