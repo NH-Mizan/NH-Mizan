@@ -68,8 +68,6 @@ I have successfully designed, developed, and delivered a wide range of projects 
 
 ---
 
-
-<hr/>
 - 🔭 I’m currently working on torism website
 - 🌱 I’m currently learning Next Js. 
 - 👯 I’m looking to collaborate on GitHub 
