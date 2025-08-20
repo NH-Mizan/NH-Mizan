@@ -1,19 +1,73 @@
 ![Frontend web Developer](https://i.ibb.co/Cpx23fxY/Software-Engineering-2.png)
-### Hello   👋
-### I'm Nahid Hasan Mizan
-#### Frontend web Developer
+# Hi, I'm Nahid Hasan Mizan 👋
+A passionate and results-driven **Full Stack Web Developer** with **3+ years of professional experience**, specializing in **Laravel & MERN Stack (React, Next.js, Node.js, Express.js, MongoDB)**.
 
-I am a passionate web developer with over two years of experience in building and delivering high-quality web applications. My expertise lies in HTML, CSS, JavaScript, React,Next js and Tailwind CSS, Bootstrap, with a strong focus on creating user-friendly and responsive designs. I excel in converting designs from PSD, XD, XI, and Figma into pixel-perfect, fully functional HTML.
+I have successfully designed, developed, and delivered a wide range of projects including **E-commerce platforms, News Portals, Business Websites, Blogs, and Portfolios**—always with a strong focus on **performance, scalability, security, and user experience**.
 
-Throughout my career, I have successfully completed numerous projects that showcase my ability to solve complex problems, deliver clean code, and contribute to the overall success of development teams. I am always eager to learn new technologies, and currently, I am focused on mastering the MERN (MongoDB, Express.js, React, Node.js) stack to expand my full-stack development skills.
+---
 
-My goal is to continue growing as a developer, stay updated with industry trends, and contribute to innovative and impactful projects.
+## 💡 Technical Expertise
 
-Feel free to connect if you're looking for someone with a proactive mindset and a passion for continuous improvement...
-Thank you
+### Frontend Development
+- HTML5, CSS3, JavaScript  
+- React.js, Next.js  
+- Tailwind CSS, Bootstrap  
 
-### Skills:
-HTML / CSS /Tailwind CSS / REACT / JS / Node JS / Express  JS/ Mongo DB / Next JS
+### Backend Development
+- Laravel  
+- Node.js, Express.js  
+- REST APIs, JWT Authentication, Firebase Authentication  
+
+### Database Management
+- MySQL  
+- MongoDB  
+
+### Other Skills
+- Custom Admin Panel Development  
+- Responsive UI/UX Design  
+- SEO-Friendly Web Applications  
+- Performance Optimization  
+- Pixel-Perfect PSD/XD/Figma to HTML Conversion  
+
+---
+
+## 🚀 Specialties
+- Full Stack Web Development (Laravel & MERN)  
+- E-commerce Development  
+- Custom Admin Panel Development  
+- Responsive UI/UX with Tailwind CSS & Bootstrap  
+- REST APIs & Authentication (JWT, Firebase)  
+- Database Design & Optimization (MySQL, MongoDB)  
+
+---
+
+## 🌟 Professional Approach
+- Writing **clean, maintainable code**  
+- Ensuring **on-time project delivery**  
+- Crafting solutions that **help businesses grow**  
+- Always **learning new technologies** and solving complex problems  
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NahidHasanMizan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
+[![Email](https://img.shields.io/badge/Email-nhmizan999@gmail.com-red?style=flat&logo=gmail)](mailto:nhmizan999@gmail.com)  
+
+---
+
+## ⚡ Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-EF3B3B?style=flat&logo=laravel&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
+
+---
+
 
 ###
 <hr/>
