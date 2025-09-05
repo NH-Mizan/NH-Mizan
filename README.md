@@ -5,7 +5,6 @@ A passionate and results-driven **Full Stack Web Developer** with **3+ years of 
 I have successfully designed, developed, and delivered a wide range of projects including **E-commerce platforms, News Portals, Business Websites, Blogs, and Portfolios**—always with a strong focus on **performance, scalability, security, and user experience**.
 
 ---
-
 ## 💡 Technical Expertise
 
 ### Frontend Development
