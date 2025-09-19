@@ -27,7 +27,6 @@ I have successfully designed, developed, and delivered a wide range of projects 
 - SEO-Friendly Web Applications  
 - Performance Optimization  
 - Pixel-Perfect PSD/XD/Figma to HTML Conversion  
-
 ---
 
 ## 🚀 Specialties
