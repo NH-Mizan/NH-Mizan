@@ -2,7 +2,6 @@
 # Hi, I'm Nahid Hasan Mizan 👋
 A passionate and results-driven **Full Stack Web Developer** with **3+ years of professional experience**, specializing in **Laravel & MERN Stack (React, Next.js, Node.js, Express.js, MongoDB)**.
 
-
 I have successfully designed, developed, and delivered a wide range of projects including **E-commerce platforms, News Portals, Business Websites, Blogs, and Portfolios**—always with a strong focus on **performance, scalability, security, and user experience**.
 
 ---
